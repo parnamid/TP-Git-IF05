@@ -42,7 +42,6 @@
 * Dans GitHub faites une demande d'intégration (pull request).
 
 Liste des étudiants ayant réussi ce TP
---------------------------------------
-* Xiaowen ZHANG,
-* Devansh PARNAMI,
-* Jessy MAUCLAIR.
+-------------------------------------
+azeazezaeaze
+-
